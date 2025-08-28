@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarjeet Baliyan</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samar3007&theme=radical" alt="samar3007" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samar3007&theme=onedark" alt="Samar3007" /></a> </p> -->
 
 - 💬 Ask me about **Data Structures and Algorithms, Fitness**
 
